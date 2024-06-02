@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
 
@@ -35,6 +36,17 @@
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-xfce/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-fedora-xfce/read/config/mousebind.html) |
+
+
+
+
+## 輸入法
+
+| 中文輸入法 | 微調腳本 |
+| ---------- | -------- |
+| [新酷音輸入法](https://samwhelp.github.io/note-about-fedora-xfce/read/subject/input-method/fcitx5/module/fcitx5-chewing.html) | [微調腳本](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-chewing) |
+| [嘸蝦米輸入法](https://samwhelp.github.io/note-about-fedora-xfce/read/subject/input-method/fcitx5/table/fcitx5-table-boshiamy.html) | [微調腳本](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-boshiamy) |
+| [輕鬆輸入法](https://samwhelp.github.io/note-about-fedora-xfce/read/subject/input-method/fcitx5/table/fcitx5-table-easy-large.html) | [微調腳本](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main/im-config/fcitx5/fcitx5-table-easy-large) |
 
 
 
