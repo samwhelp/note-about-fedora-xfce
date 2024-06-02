@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [字型](#字型)
 * [輸入法](#輸入法)
 * [佈景主題](#佈景主題)
 * [相關筆記](#相關筆記)
@@ -36,6 +37,15 @@
 | --- |
 | [鍵盤按鍵綁定](https://samwhelp.github.io/note-about-fedora-xfce/read/config/keybind.html) |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-fedora-xfce/read/config/mousebind.html) |
+
+
+
+
+## 字型
+
+| 字型設定 | 微調腳本 |
+| -------- | -------- |
+| [設定字型查找順序](https://samwhelp.github.io/note-about-fedora-xfce/read/subject/font/config/font-match-order.html) | [微調腳本](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main/font-config/font-match-order) |
 
 
 
