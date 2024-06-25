@@ -27,7 +27,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Fedora Xfce](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main) |
+| [Fedora Xfce Config](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main) |
 
 
 
@@ -76,6 +76,7 @@
 | [如何](https://samwhelp.github.io/note-about-fedora-xfce/read/howto.html) |
 | ------- |
 | [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-fedora-xfce/read/howto/config-mouse-button-modifier.html) |
+
 
 
 
