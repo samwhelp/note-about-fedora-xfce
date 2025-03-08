@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Fedora Xfce Adjustment](https://samwhelp.github.io/fedora-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-xfce-adjustment) |
 | [Fedora Xfce 探索筆記](https://samwhelp.github.io/note-about-fedora-xfce/) | [GitHub](https://github.com/samwhelp/note-about-fedora-xfce) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
 
 
@@ -84,11 +85,14 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
-| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/) | [GitHub](https://github.com/samwhelp/note-about-xfce) |
+| [Debian Xfce 探索筆記](https://samwhelp.github.io/note-about-debian-xfce/) | [GitHub](https://github.com/samwhelp/note-about-debian-xfce) |
+| [MxLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-mxlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-xfce) |
+| [LinuxMint Xfce 探索筆記](https://samwhelp.github.io/note-about-linuxmint-xfce/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-xfce) |
+| [Xubuntu 探索筆記](https://samwhelp.github.io/note-about-xubuntu/) | [GitHub](https://github.com/samwhelp/note-about-xubuntu) |
+| [ArchLinux Xfce 探索筆記](https://samwhelp.github.io/note-about-archlinux-xfce/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-xfce) |
+| [Manjaro Xfce 探索筆記](https://samwhelp.github.io/note-about-manjaro-xfce/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-xfce) |
+| [Ultramarine Xfce 探索筆記](https://samwhelp.github.io/note-about-ultramarine-xfce/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-xfce) |
 
 
 
