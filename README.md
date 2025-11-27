@@ -28,7 +28,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Fedora Xfce Config](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main) |
+| [Fedora Xfce Config](https://github.com/samwhelp/fedora-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
